@@ -1,0 +1,6 @@
+framework module Pods_FamilyTreeView {
+  umbrella header "Pods-FamilyTreeView-umbrella.h"
+
+  export *
+  module * { export * }
+}
